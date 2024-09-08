@@ -34,13 +34,3 @@ Se você é desenvolvedor e curtiu o projeto, dá uma olhada no código e veja s
 **Vamos juntos torcer pelo Brasil!** 🇧🇷
 
 **#olimpíadas #atletasbrasileiros #programação #javascript #html #css #github**
-
-**[Link para o repositório no GitHub]**
-
-**[GIF animado mostrando a aplicação em funcionamento]**
-
-**[Imagem legal do mascote das Olimpíadas]**
-
-**Lembre-se de adaptar este texto com informações mais específicas sobre o seu projeto, como o nome do repositório, as funcionalidades mais importantes e as tecnologias utilizadas.**
-
-**Gostou? Posso te ajudar a criar outros posts para o GitHub!**
